@@ -21,6 +21,7 @@ $ composer require squarebit/localization
 ##### 2. Set Portuguese(pt) language as default
   ```
   // file: config/app.php:
+  
   'locale' => 'pt',
   ```
 ## Change log
@@ -48,7 +49,7 @@ If you discover any security related issues, please email info@square-bit.com in
 
 ## License
 
-GPL-3.0-or-later. Please see the [license file](license.md) for more information.
+MIT. Please see the [license file](license.md) for more information.
 
 [ico-version]: https://img.shields.io/packagist/v/square-bit/localization.svg?style=flat-square
 [ico-downloads]: https://img.shields.io/packagist/dt/square-bit/localization.svg?style=flat-square
