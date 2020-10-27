@@ -1,6 +1,6 @@
 <?php
 
-namespace Squarebit\Localization;
+namespace Squarebit\Laravelptlocalization;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -16,6 +16,6 @@ class LocalizationServiceProvider extends ServiceProvider
         $this->publishes([
             __DIR__.'/../resources/lang/pt.json' => resource_path('lang/pt.json'),
             __DIR__.'/../resources/lang/pt' => resource_path('lang/pt'),
-        ], 'laravel-pt-Localization');
+        ], 'laravel-pt-localization');
     }
 }

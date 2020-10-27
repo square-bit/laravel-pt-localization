@@ -1,6 +1,6 @@
 {
-    "name": "squarebit/localization",
-    "description": "Laravel PHP Framework - Portuguese Version",
+    "name": "squarebit/laravel-pt-localization",
+    "description": "Portuguese Localization package for Laravel",
     "license": "MIT",
     "authors": [
         {
@@ -9,7 +9,7 @@
             "homepage": "https://square-bit.com/"
         }
     ],
-    "homepage": "https://github.com/square-bit/localization",
+    "homepage": "https://github.com/square-bit/laravel-pt-localization",
     "keywords": ["laravel", "localization", "portuguese", "translations"],
     "require": {
         "illuminate/support": "~7|~8"
@@ -20,18 +20,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Squarebit\\Localization\\": "src/"
+            "Squarebit\\Laravelptlocalization\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Squarebit\\Localization\\Tests\\": "tests"
+            "Squarebit\\Laravelptlocalization\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Squarebit\\Localization\\LocalizationServiceProvider"
+                "Squarebit\\Laravelptlocalization\\LocalizationServiceProvider"
             ]
         }
     }
