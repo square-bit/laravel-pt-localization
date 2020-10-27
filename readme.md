@@ -1,9 +1,9 @@
-# Laravel PHP Framework - Localization Portuguese Version
+# Portuguese Localization package for Laravel
 
 [![Latest Version on Packagist][ico-version]][link-packagist]
 [![Total Downloads][ico-downloads]][link-downloads]
 
-This is where your description should go. Take a look at [contributing.md](contributing.md) to see a to do list.
+This package provides Portuguese (from Portugal) translation language files for Laravel 8.
 
 ## Installation
 
@@ -16,11 +16,11 @@ $ composer require squarebit/localization
 ## Usage
 ##### 1. Publish command
   ```shell
-  $ php artisan vendor:publish --tag=laravel-pt-Localization
+  $ php artisan vendor:publish --tag=laravel-pt-localization
   ```
 ##### 2. Set Portuguese(pt) language as default
   ```
-  // Change line 83 in file config/app.php:
+  // file: config/app.php:
   'locale' => 'pt',
   ```
 ## Change log
