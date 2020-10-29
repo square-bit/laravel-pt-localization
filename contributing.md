@@ -2,11 +2,9 @@
 
 Contributions are welcome and will be fully credited.
 
-Contributions are accepted via Pull Requests on [Github](https://github.com/square-bit/localization).
+Contributions are accepted via Pull Requests on [Github](https://github.com/square-bit/laravel-pt-localization).
 
 ## Pull Requests
-
-- **Add tests!** - Your patch won't be accepted if it doesn't have tests.
 
 - **Document any change in behaviour** - Make sure the `readme.md` and any other relevant documentation are kept up-to-date.
 

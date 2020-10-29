@@ -10,7 +10,7 @@ This package provides Portuguese (from Portugal) translation language files for 
 Via Composer
 
 ``` bash
-$ composer require squarebit/localization
+$ composer require square-bit/laravel-pt-localization
 ```
 
 ## Usage
@@ -51,10 +51,10 @@ If you discover any security related issues, please email info@square-bit.com in
 
 MIT. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/square-bit/localization.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/square-bit/localization.svg?style=flat-square
+[ico-version]: https://img.shields.io/packagist/v/square-bit/laravel-pt-localization.svg?style=flat-square
+[ico-downloads]: https://img.shields.io/packagist/dt/square-bit/laravel-pt-localization.svg?style=flat-square
 
-[link-packagist]: https://packagist.org/packages/squarebit/localization
-[link-downloads]: https://packagist.org/packages/squarebit/localization
+[link-packagist]: https://packagist.org/packages/ssquare-bit/laravel-pt-localization
+[link-downloads]: https://packagist.org/packages/square-bit/laravel-pt-localization
 [link-author]: https://github.com/square-bit
 [link-contributors]: ../../contributors

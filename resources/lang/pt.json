@@ -66,6 +66,8 @@
   "-------------------- FORGOT PASSWORD --------------------": "",
   "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Esqueceu-se da Password? Introduza o seu nome de utilizador e enviaremos para o seu email um link que permite escolher uma nova.",
   "Email Password Reset Link": "Enviar email com link",
-  "-------------------- CONFIRM PASSWORD --------------------": "",
-  "For your security, please confirm your password to continue.": "Para sua segurança, introduza a Password para confirmar."
+    "-------------------- CONFIRM PASSWORD --------------------": "",
+  "For your security, please confirm your password to continue.": "Para sua segurança, introduza a Password para confirmar.",
+    "-------------------- REGISTER --------------------": "",
+    "Already registered?": "Já registado?"
 }
