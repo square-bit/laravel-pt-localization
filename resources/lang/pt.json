@@ -64,10 +64,10 @@
   "If necessary, you may logout of all of your other browser sessions across all of your devices. If you feel your account has been compromised, you should also update your password.": "Se necessário, poderá terminar todas as sessões abertas noutros browsers ou dispositivos. Se acha que a sua conta foi comprometida, contacte-nos de imediato e altere a sua Password.",
   "Logout Other Browser Sessions": "Desligar todas as outras sessões",
   "-------------------- FORGOT PASSWORD --------------------": "",
-  "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Esqueceu-se da Password? Introduza o seu nome de utilizador e enviaremos para o seu email um link que permite escolher uma nova.",
+  "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "Esqueceu-se da password? Introduza o seu email e enviaremos um link de redefinição de password que permite escolher uma nova.",
   "Email Password Reset Link": "Enviar email com link",
     "-------------------- CONFIRM PASSWORD --------------------": "",
-  "For your security, please confirm your password to continue.": "Para sua segurança, introduza a Password para confirmar.",
+  "For your security, please confirm your password to continue.": "Para sua segurança, introduza a password para confirmar.",
     "-------------------- REGISTER --------------------": "",
     "Already registered?": "Já registado?"
 }
