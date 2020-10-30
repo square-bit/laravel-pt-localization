@@ -1,7 +1,8 @@
 # Portuguese Localization package for Laravel
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Latest Stable Version](https://poser.pugx.org/square-bit/laravel-pt-localization/v)](//packagist.org/packages/square-bit/laravel-pt-localization)
+[![License](https://poser.pugx.org/square-bit/laravel-pt-localization/license)](//packagist.org/packages/square-bit/laravel-pt-localization)
+[![Total Downloads](https://poser.pugx.org/square-bit/laravel-pt-localization/downloads)](//packagist.org/packages/square-bit/laravel-pt-localization)
 
 This package provides Portuguese (from Portugal) translation language files for Laravel 8.
 
@@ -28,12 +29,6 @@ $ composer require square-bit/laravel-pt-localization
 
 Please see the [changelog](changelog.md) for more information on what has changed recently.
 
-## Testing
-
-``` bash
-$ composer test
-```
-
 ## Contributing
 
 Please see [contributing.md](contributing.md) for details and a todolist.
@@ -51,10 +46,5 @@ If you discover any security related issues, please email info@square-bit.com in
 
 MIT. Please see the [license file](license.md) for more information.
 
-[ico-version]: https://img.shields.io/packagist/v/square-bit/laravel-pt-localization.svg?style=flat-square
-[ico-downloads]: https://img.shields.io/packagist/dt/square-bit/laravel-pt-localization.svg?style=flat-square
-
-[link-packagist]: https://packagist.org/packages/ssquare-bit/laravel-pt-localization
-[link-downloads]: https://packagist.org/packages/square-bit/laravel-pt-localization
 [link-author]: https://github.com/square-bit
 [link-contributors]: ../../contributors
