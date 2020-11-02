@@ -15,7 +15,7 @@ return [
     |
     */
 
-    'accepted' => 'O campo ":attribute" deve ser aceita.',
+    'accepted' => 'O campo ":attribute" deve ser aceite.',
     'active_url' => 'O campo ":attribute" não é um URL válido.',
     'after' => 'O campo ":attribute" deve ser uma data posterior a :date.',
     'after_or_equal' => 'O campo ":attribute" deve ser uma data posterior ou igual a :date.',
@@ -119,11 +119,6 @@ return [
     'uploaded' => 'Ocorreu uma falha no upload do campo ":attribute".',
     'url' => 'O campo ":attribute" tem um formato inválido.',
     'uuid' => 'O campo ":attribute" deve ser um UUID válido.',
-
-    'accessibleClient' => 'Selecione um ":attribute" válido.',
-    'invalidNIF' => '":attribute" não é um NIF válido.',
-    'invalidBI' => '":attribute" não é um BI válido.',
-    'invalidNCC' => '":attribute" não é um CC válido.',
 
     /*
     |--------------------------------------------------------------------------
