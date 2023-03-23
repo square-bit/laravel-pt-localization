@@ -95,13 +95,13 @@
   "Last used": "Último usado",
   "Delete": "Eliminar",
   "API Token": "Token API",
-  "Please copy your new API token. For your security, it won\\'t be shown again.": "Por favor, copie o seu novo token API. Para sua segurança, ele não será mostrado novamente.",
+  "Please copy your new API token. For your security, it won't be shown again.": "Por favor, copie o seu novo token API. Para sua segurança, ele não será mostrado novamente.",
   "Close": "Fechar",
   "API Token Permissions": "Permissões do Token API",
   "Delete API Token": "Eliminar o Token API",
   "Are you sure you would like to delete this API token?": "Tem certeza de que gostaria de apagar este token API?",
   "-------------------- Verify email --------------------": "",
-  "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn\\'t receive the email, we will gladly send you another.": "Obrigado por se registar! Antes de começar, verifique o seu endereço de email clicando no link que acabamos de lhe enviar por email? Se não recebeu o email, enviaremos-lhe outro de bom grado.",
+  "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "Obrigado por se registar! Antes de começar, verifique o seu endereço de email clicando no link que acabamos de lhe enviar por email? Se não recebeu o email, enviaremos-lhe outro de bom grado.",
   "A new verification link has been sent to the email address you provided during registration.": "Um novo link de verificação foi enviado para o endereço de email fornecido durante o registo.",
   "Resend Verification Email": "Reenviar email de verificação",
   "-------------------- Profile --------------------": "",
@@ -126,7 +126,7 @@
   "Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.": "Tem a certeza que deseja apagar esta equipa? Assim que a equipa for apagada, todos os seus dados serão permanentemente removidos.",
   "Add Team Member": "Adicionar Membro da Equipa",
   "Add a new team member to your team, allowing them to collaborate with you.": "Adicione um novo membro à sua equipa, permitindo que eles colaborem consigo.",
-  "Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.": "Por favor, forneça email da pessoa que gostaria de adicionar a esta equipa. O email deve estar associado a uma conta existente.",
+  "Please provide the email address of the person you would like to add to this team.": "Por favor, forneça email da pessoa que gostaria de adicionar a esta equipa.",
   "Email": "Email",
   "Role": "Função",
   "Added.": "Adicionado.",
@@ -140,5 +140,5 @@
   "Are you sure you would like to leave this team?": "Tem a certeza que gostaria de sair desta equipa?",
   "Remove Team Member": "Remover Membro da Equipa",
   "Are you sure you would like to remove this person from the team?": "Tens a certeza que gostaria de remover esta pessoa da equipa?",
-  "The team\\'s name and owner information.": "Nome da equipa e informações do proprietário."
+  "The team's name and owner information.": "Nome da equipa e informações do proprietário."
 }
