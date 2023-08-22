@@ -1,29 +1,34 @@
 {
-    "name": "square-bit/laravel-pt-localization",
-    "description": "Portuguese Localization package for Laravel",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Squarebit",
-            "email": "info@square-bit.com",
-            "homepage": "https://square-bit.com/"
-        }
-    ],
-    "homepage": "https://github.com/square-bit/laravel-pt-localization",
-    "keywords": ["laravel", "localization", "portuguese", "translations"],
-    "require": {
-        "laravel/framework": "^8.0|^9.0|^10.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "Squarebit\\Laravelptlocalization\\": "src/"
-        }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Squarebit\\Laravelptlocalization\\LocalizationServiceProvider"
-            ]
-        }
+  "name": "square-bit/laravel-pt-localization",
+  "description": "Portuguese Localization package for Laravel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Squarebit",
+      "email": "info@square-bit.com",
+      "homepage": "https://square-bit.com/"
     }
+  ],
+  "homepage": "https://github.com/square-bit/laravel-pt-localization",
+  "keywords": [
+    "laravel",
+    "localization",
+    "portuguese",
+    "translations"
+  ],
+  "require": {
+    "laravel/framework": "^10.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Squarebit\\Laravelptlocalization\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Squarebit\\Laravelptlocalization\\LocalizationServiceProvider"
+      ]
+    }
+  }
 }

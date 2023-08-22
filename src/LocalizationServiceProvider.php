@@ -15,8 +15,8 @@ class LocalizationServiceProvider extends ServiceProvider
     public function boot(): void
     {
         $this->publishes([
-            __DIR__.'/../resources/lang/pt.json' => resource_path('lang/pt.json'),
-            __DIR__.'/../resources/lang/pt' => resource_path('lang/pt'),
+            __DIR__.'/../resources/lang/pt.json' => base_path('lang/pt.json'),
+            __DIR__.'/../resources/lang/pt' => base_path('lang/pt'),
         ], 'laravel-pt-localization');
     }
 }
