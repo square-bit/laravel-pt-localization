@@ -12,7 +12,7 @@
     "homepage": "https://github.com/square-bit/laravel-pt-localization",
     "keywords": ["laravel", "localization", "portuguese", "translations"],
     "require": {
-        "laravel/framework": "^8.0"
+        "laravel/framework": "^8.0|^9.0|^10.0"
     },
     "autoload": {
         "psr-4": {
