@@ -4,7 +4,7 @@
 [![License](https://poser.pugx.org/square-bit/laravel-pt-localization/license)](//packagist.org/packages/square-bit/laravel-pt-localization)
 [![Total Downloads](https://poser.pugx.org/square-bit/laravel-pt-localization/downloads)](//packagist.org/packages/square-bit/laravel-pt-localization)
 
-This package provides Portuguese (from Portugal) translation language files for Laravel 8.
+This package provides Portuguese (from Portugal) translation language files for Laravel 11.
 
 ## Installation
 
